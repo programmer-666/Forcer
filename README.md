@@ -7,7 +7,7 @@ A simple cyber security tool for mysql databases with Python3.
 - Time Module
 - Threading Module
 - NT or Posix 
-## Using
+## Usage
 ```bash
 $ python3 mysqlforcer.py <host> <username> <wordlist>
 ```
