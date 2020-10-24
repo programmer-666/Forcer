@@ -1,12 +1,12 @@
 # Forcer
 A simple cyber security tool for mysql databases with Python3.
 ## Requirements
-- PyMySQL
-- Sys
-- Datetime
-- Time
-- Threading
-- NT or Posix
+- PyMySQL Module
+- Sys Module
+- Datetime Module
+- Time Module
+- Threading Module
+- NT or Posix 
 ## Using
 ```bash
 $ python3 mysqlforcer.py <host> <username> <wordlist>
